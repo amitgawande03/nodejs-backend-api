@@ -1,0 +1,1245 @@
+[
+    {
+        "id": 1,
+        "name": "Abhisar Deshmukh",
+        "role": "Batsman",
+        "runs": 191,
+        "wickets": 0,
+        "pclSeasons": [
+            "4,5,7"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 2,
+        "name": "Abhishek Jaiswal",
+        "role": "All-Rounder",
+        "runs": 441,
+        "wickets": 20,
+        "pclSeasons": [
+            "1,2,3,4,5,6,7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Abhishek_Jaiswal.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Adil Khan",
+        "role": "All-Rounder",
+        "runs": 396,
+        "wickets": 29,
+        "pclSeasons": [
+            "1,2,3,4,5,6,7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Adil_Khan.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Aditya Joshi",
+        "role": "All-Rounder",
+        "runs": 75,
+        "wickets": 26,
+        "pclSeasons": [
+            "5"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf"
+    },
+    {
+        "id": 5,
+        "name": "Ahmad Saqib Iqbal",
+        "role": "Batsman",
+        "runs": 148,
+        "wickets": 0,
+        "pclSeasons": [
+            "6,7"
+        ],
+        "basePrice": 10000,
+        "photo": "photos/Ahmad_Saqib_Iqbal.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 6,
+        "name": "Akash Pande",
+        "role": "Batsman",
+        "runs": 21,
+        "wickets": 0,
+        "pclSeasons": [
+            "7"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 7,
+        "name": "Akash Singh",
+        "role": "All-Rounder",
+        "runs": 74,
+        "wickets": 19,
+        "pclSeasons": [
+            "7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Akash_Singh.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Akshay Mankar",
+        "role": "All-Rounder",
+        "runs": 175,
+        "wickets": 22,
+        "pclSeasons": [
+            "6,7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Akshay_Mankar.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Amey Jodh",
+        "role": "All-Rounder",
+        "runs": 135,
+        "wickets": 23,
+        "pclSeasons": [
+            "6,7"
+        ],
+        "basePrice": 10000,
+        "photo": "photos/Amey_Jodh_1.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Amit Gawande",
+        "role": "Batsman",
+        "runs": 48,
+        "wickets": 0,
+        "pclSeasons": [
+            "1,2,6,7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Amit_Gawande.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 11,
+        "name": "Amol Khobragade",
+        "role": "Batsman",
+        "runs": 0,
+        "wickets": 0,
+        "pclSeasons": [
+            "0"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 12,
+        "name": "Ankit Vaidya",
+        "role": "Batsman",
+        "runs": 229,
+        "wickets": 0,
+        "pclSeasons": [
+            "5,6,7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Ankit_Vaidya.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 13,
+        "name": "Ankur Shrestha",
+        "role": "Batsman",
+        "runs": 19,
+        "wickets": 0,
+        "pclSeasons": [
+            "5"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 14,
+        "name": "Ankush Charde",
+        "role": "Batsman",
+        "runs": 46,
+        "wickets": 15,
+        "pclSeasons": [
+            "7"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 15,
+        "name": "Anshul Sahoo",
+        "role": "Batsman",
+        "runs": 0,
+        "wickets": 0,
+        "pclSeasons": [
+            "0"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Anshul_Sahoo.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 16,
+        "name": "Arun Sahu",
+        "role": "All-Rounder",
+        "runs": 94,
+        "wickets": 50,
+        "pclSeasons": [
+            "1,2,5,7"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf"
+    },
+    {
+        "id": 17,
+        "name": "Ashish Patel",
+        "role": "Batsman",
+        "runs": 13,
+        "wickets": 0,
+        "pclSeasons": [
+            "7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Ashish_Patel.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 18,
+        "name": "Ashwin Bharti",
+        "role": "Batsman",
+        "runs": 15,
+        "wickets": 3,
+        "pclSeasons": [
+            "6,7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Ashwin_Bharti.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 19,
+        "name": "Avinash Nagpure",
+        "role": "All-Rounder",
+        "runs": 490,
+        "wickets": 43,
+        "pclSeasons": [
+            "1,2,3,4,5"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Avinash_Nagpure.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Bhavesh Chandiwale",
+        "role": "Batsman",
+        "runs": 0,
+        "wickets": 0,
+        "pclSeasons": [
+            "0"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 21,
+        "name": "Bhushan Dongre",
+        "role": "Batsman",
+        "runs": 10,
+        "wickets": 0,
+        "pclSeasons": [
+            "6,7"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 22,
+        "name": "Chaitanya Ramteke",
+        "role": "Batsman",
+        "runs": 13,
+        "wickets": 0,
+        "pclSeasons": [
+            "7"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 23,
+        "name": "Chaitanya Tol",
+        "role": "Batsman",
+        "runs": 0,
+        "wickets": 0,
+        "pclSeasons": [
+            "0"
+        ],
+        "basePrice": 10000,
+        "photo": "photos/Chaitanya_Tol.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 24,
+        "name": "Deepak Yadav",
+        "role": "Batsman",
+        "runs": 30,
+        "wickets": 5,
+        "pclSeasons": [
+            "6"
+        ],
+        "basePrice": 10000,
+        "photo": "photos/Deepak_Yadav.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 25,
+        "name": "Dhiraj Silutkar",
+        "role": "Batsman",
+        "runs": 51,
+        "wickets": 0,
+        "pclSeasons": [
+            "7"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 26,
+        "name": "Dileshwar Patle",
+        "role": "Batsman",
+        "runs": 100,
+        "wickets": 7,
+        "pclSeasons": [
+            "5,7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Dileshwar_Patle.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 27,
+        "name": "Chetan Zade",
+        "role": "Batsman",
+        "runs": 0,
+        "wickets": 0,
+        "pclSeasons": [
+            "0"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 28,
+        "name": "Gaurav Deshmukh",
+        "role": "Batsman",
+        "runs": 34,
+        "wickets": 1,
+        "pclSeasons": [
+            "6,7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Gaurav_Deshmukh.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 29,
+        "name": "Geet Gattani",
+        "role": "Batsman",
+        "runs": 60,
+        "wickets": 0,
+        "pclSeasons": [
+            "7"
+        ],
+        "basePrice": 10000,
+        "photo": "photos/Geeet_Gattani.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 30,
+        "name": "Hrushikesh Zadgaonkar",
+        "role": "Batsman",
+        "runs": 1071,
+        "wickets": 14,
+        "pclSeasons": [
+            "1,2,3,4,5,6,7"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 31,
+        "name": "Kunal Dhoble",
+        "role": "Batsman",
+        "runs": 46,
+        "wickets": 0,
+        "pclSeasons": [
+            "6,7"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 32,
+        "name": "Laksh Gonnade ",
+        "role": "Batsman",
+        "runs": 92,
+        "wickets": 0,
+        "pclSeasons": [
+            "7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Laksh_Gonnade.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 33,
+        "name": "Mandar Kulkarni_new",
+        "role": "Batsman",
+        "runs": 116,
+        "wickets": 0,
+        "pclSeasons": [
+            "6,7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Mandar_Kulkarni.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 34,
+        "name": "Mandar  Kulkarni",
+        "role": "Batsman",
+        "runs": 158,
+        "wickets": 1,
+        "pclSeasons": [
+            "1,3,4,5,6,7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Mandar_Kulkarni_RCB.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 35,
+        "name": "Mayank Mishra",
+        "role": "Batsman",
+        "runs": 0,
+        "wickets": 0,
+        "pclSeasons": [
+            "0"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Mayank_Mishra.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 36,
+        "name": "Mayur Patle",
+        "role": "All-Rounder",
+        "runs": 523,
+        "wickets": 31,
+        "pclSeasons": [
+            "1,2,3,4,5,6,7"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf"
+    },
+    {
+        "id": 37,
+        "name": "Mirza QadirBaig",
+        "role": "Batsman",
+        "runs": 29,
+        "wickets": 0,
+        "pclSeasons": [
+            "7"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 38,
+        "name": "Mohammad Mohtashim",
+        "role": "All-Rounder",
+        "runs": 115,
+        "wickets": 31,
+        "pclSeasons": [
+            "6,7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Mohammad_Mohtashim.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 39,
+        "name": "Gaurav Baitalwar",
+        "role": "Batsman",
+        "runs": 9,
+        "wickets": 0,
+        "pclSeasons": [
+            "6,7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Gaurav_Baitalwar.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 40,
+        "name": "Mujahid Sheikh",
+        "role": "Batsman",
+        "runs": 79,
+        "wickets": 0,
+        "pclSeasons": [
+            "3,4,5,6,7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Mujahid_Sheikh.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 41,
+        "name": "Mukul Tijare",
+        "role": "Batsman",
+        "runs": 25,
+        "wickets": 0,
+        "pclSeasons": [
+            "6"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Mukul_Tijare.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 42,
+        "name": "Nikhil Dusawar",
+        "role": "Batsman",
+        "runs": 0,
+        "wickets": 0,
+        "pclSeasons": [
+            "0"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Nikhil_Dusawar.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 43,
+        "name": "Nitin Bambal",
+        "role": "Batsman",
+        "runs": 30,
+        "wickets": 1,
+        "pclSeasons": [
+            "6,7"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 44,
+        "name": "Nitin Bhade",
+        "role": "Batsman",
+        "runs": 7,
+        "wickets": 0,
+        "pclSeasons": [
+            "7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Nitin_Bhade.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 45,
+        "name": "Piyush Bramhe",
+        "role": "All-Rounder",
+        "runs": 285,
+        "wickets": 103,
+        "pclSeasons": [
+            "1,2,3,4,5,6,7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Piyush_Bramhe.jpg"
+    },
+    {
+        "id": 46,
+        "name": "Pravin Kalbande",
+        "role": "Batsman",
+        "runs": 219,
+        "wickets": 0,
+        "pclSeasons": [
+            "6,7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Pravin_Kalbande.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 47,
+        "name": "Rahul Bhakre ",
+        "role": "Batsman",
+        "runs": 158,
+        "wickets": 7,
+        "pclSeasons": [
+            "6,7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Rahul_Bhakre.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 48,
+        "name": "Rahul Dakhole",
+        "role": "All-Rounder",
+        "runs": 117,
+        "wickets": 71,
+        "pclSeasons": [
+            "2,3,4,5,7"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf"
+    },
+    {
+        "id": 49,
+        "name": "Rahul Kahate",
+        "role": "Batsman",
+        "runs": 323,
+        "wickets": 2,
+        "pclSeasons": [
+            "1,2,3,4"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Rahul_Kahate.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 50,
+        "name": "Rahul Nain",
+        "role": "All-Rounder",
+        "runs": 367,
+        "wickets": 20,
+        "pclSeasons": [
+            "6,7"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf"
+    },
+    {
+        "id": 51,
+        "name": "Mohammad Tausif Sheikh",
+        "role": "Batsman",
+        "runs": 0,
+        "wickets": 0,
+        "pclSeasons": [
+            "0"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 52,
+        "name": "Roshan Thakur",
+        "role": "Batsman",
+        "runs": 51,
+        "wickets": 0,
+        "pclSeasons": [
+            "6,7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Roshan_Thakur.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 53,
+        "name": "Sagar Domde ",
+        "role": "Batsman",
+        "runs": 14,
+        "wickets": 0,
+        "pclSeasons": [
+            "7"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 54,
+        "name": "Sagar Varma",
+        "role": "Batsman",
+        "runs": 122,
+        "wickets": 0,
+        "pclSeasons": [
+            "6,7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Sagar_Varma.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 55,
+        "name": "Saksham Pal",
+        "role": "Batsman",
+        "runs": 15,
+        "wickets": 19,
+        "pclSeasons": [
+            "7"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 56,
+        "name": "Salman Pathan",
+        "role": "Batsman",
+        "runs": 288,
+        "wickets": 0,
+        "pclSeasons": [
+            "3,4,5,6,7"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 57,
+        "name": "Sandeep Bhiwgade",
+        "role": "All-Rounder",
+        "runs": 282,
+        "wickets": 90,
+        "pclSeasons": [
+            "1,2,3,4,5,6,7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Sandeep_Bhiwgade.jpg"
+    },
+    {
+        "id": 58,
+        "name": "Mohammad Akram",
+        "role": "Batsman",
+        "runs": 31,
+        "wickets": 0,
+        "pclSeasons": [
+            "5"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 59,
+        "name": "Sandeep Nagarke",
+        "role": "Batsman",
+        "runs": 221,
+        "wickets": 15,
+        "pclSeasons": [
+            "1,2,3,4,5,6,7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Sandeep_Nagarke.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 60,
+        "name": "Pranav Dudhe",
+        "role": "Batsman",
+        "runs": 26,
+        "wickets": 0,
+        "pclSeasons": [
+            "7"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 61,
+        "name": "Sandesh Dubey ",
+        "role": "Batsman",
+        "runs": 307,
+        "wickets": 13,
+        "pclSeasons": [
+            "6,7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Sandesh_Dubey.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 62,
+        "name": "Sangam Thakur",
+        "role": "Batsman",
+        "runs": 45,
+        "wickets": 0,
+        "pclSeasons": [
+            "6,7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Sangam_Thakur.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 63,
+        "name": "Sanket Trivedi",
+        "role": "Batsman",
+        "runs": 4,
+        "wickets": 0,
+        "pclSeasons": [
+            "7"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 64,
+        "name": "Sarfaraz Sheikh",
+        "role": "Batsman",
+        "runs": 40,
+        "wickets": 4,
+        "pclSeasons": [
+            "1,6,7"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 65,
+        "name": "Satyam Korde",
+        "role": "Batsman",
+        "runs": 36,
+        "wickets": 0,
+        "pclSeasons": [
+            "6,7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Satyam_Korde.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 66,
+        "name": "Saurabh Netke",
+        "role": "Batsman",
+        "runs": 36,
+        "wickets": 1,
+        "pclSeasons": [
+            "6,7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Saurabh_Netke.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 67,
+        "name": "Shailesh Joshi",
+        "role": "All-Rounder",
+        "runs": 96,
+        "wickets": 77,
+        "pclSeasons": [
+            "1,2,3,4,5,6,7"
+        ],
+        "basePrice": 10000,
+        "photo": "photos/Shailesh_Joshi.jpg"
+    },
+    {
+        "id": 68,
+        "name": "Rahul Shingne",
+        "role": "Batsman",
+        "runs": 0,
+        "wickets": 0,
+        "pclSeasons": [
+            "0"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 69,
+        "name": "Shardul Kalwit",
+        "role": "Batsman",
+        "runs": 0,
+        "wickets": 0,
+        "pclSeasons": [
+            "0"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 70,
+        "name": "Shubham Handa",
+        "role": "Batsman",
+        "runs": 95,
+        "wickets": 5,
+        "pclSeasons": [
+            "6,7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Shubham_Handa.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 71,
+        "name": "Shubhankar Saraf",
+        "role": "Batsman",
+        "runs": 76,
+        "wickets": 4,
+        "pclSeasons": [
+            "7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Shubhankar_Saraf.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 72,
+        "name": "Shyam Dhanotiya",
+        "role": "Batsman",
+        "runs": 0,
+        "wickets": 0,
+        "pclSeasons": [
+            "0"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 73,
+        "name": "Sooraj Bhattad",
+        "role": "Batsman",
+        "runs": 43,
+        "wickets": 0,
+        "pclSeasons": [
+            "1"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 74,
+        "name": "Subodh Kamble",
+        "role": "All-Rounder",
+        "runs": 86,
+        "wickets": 16,
+        "pclSeasons": [
+            "6,7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Subodh_Kamble.jpg"
+    },
+    {
+        "id": 75,
+        "name": "Sudhir Kukade",
+        "role": "Batsman",
+        "runs": 90,
+        "wickets": 14,
+        "pclSeasons": [
+            "4,5,6,7"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 76,
+        "name": "Sumedh Gandhi",
+        "role": "All-Rounder",
+        "runs": 1219,
+        "wickets": 75,
+        "pclSeasons": [
+            "1,2,3,4,5,6,7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Sumedh_Gandhi.jpg"
+    },
+    {
+        "id": 77,
+        "name": "Sushant Singh ",
+        "role": "Bowler",
+        "runs": 39,
+        "wickets": 59,
+        "pclSeasons": [
+            "2,3,4,5,6,7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Sushant_Singh.jpg",
+        "bowlingStyle": "Right-arm medium"
+    },
+    {
+        "id": 78,
+        "name": "Suyog Vairagade",
+        "role": "Batsman",
+        "runs": 172,
+        "wickets": 0,
+        "pclSeasons": [
+            "6,7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Suyog_Vairagade.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 79,
+        "name": "Swapnajeet Mahure",
+        "role": "Batsman",
+        "runs": 289,
+        "wickets": 9,
+        "pclSeasons": [
+            "2,5,6,7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Swapnajeet_Mahure.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 80,
+        "name": "Ujwal Shelke",
+        "role": "Batsman",
+        "runs": 38,
+        "wickets": 0,
+        "pclSeasons": [
+            "7"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 81,
+        "name": "Vaibhav Bani",
+        "role": "Batsman",
+        "runs": 14,
+        "wickets": 0,
+        "pclSeasons": [
+            "1,2,3,4"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 82,
+        "name": "Vikram Pandey",
+        "role": "All-Rounder",
+        "runs": 411,
+        "wickets": 45,
+        "pclSeasons": [
+            "1,2,5,6,7"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Vikram_Pandey.jpg"
+    },
+    {
+        "id": 83,
+        "name": "Vishal Borkar",
+        "role": "Batsman",
+        "runs": 0,
+        "wickets": 0,
+        "pclSeasons": [
+            "0"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 84,
+        "name": "Yash Konghe",
+        "role": "Batsman",
+        "runs": 0,
+        "wickets": 0,
+        "pclSeasons": [
+            "0"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 85,
+        "name": "Yogesh Ghotekar",
+        "role": "Batsman",
+        "runs": 0,
+        "wickets": 0,
+        "pclSeasons": [
+            "0"
+        ],
+        "basePrice": 500,
+        "photo": "photos/Yogesh_Ghotekar.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 86,
+        "name": "Yogesh Jaiswal",
+        "role": "Batsman",
+        "runs": 29,
+        "wickets": 20,
+        "pclSeasons": [
+            "6,7"
+        ],
+        "basePrice": 10000,
+        "photo": "photos/Yogesh_Jaiswal.jpg",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 87,
+        "name": "Yogesh Joshirao",
+        "role": "Batsman",
+        "runs": 321,
+        "wickets": 2,
+        "pclSeasons": [
+            "1,2,3,4,5,7"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 88,
+        "name": "Yogesh Raich",
+        "role": "Batsman",
+        "runs": 330,
+        "wickets": 5,
+        "pclSeasons": [
+            "1,2,3,4,5,6,7"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 89,
+        "name": "Aman Bhardwaj",
+        "role": "Batsman",
+        "runs": 0,
+        "wickets": 0,
+        "pclSeasons": [
+            "0"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 90,
+        "name": "Sandeep Dardemal",
+        "role": "All-Rounder",
+        "runs": 270,
+        "wickets": 28,
+        "pclSeasons": [
+            "3,4,5,6,7"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf"
+    },
+    {
+        "id": 91,
+        "name": "Rishikesh Kose",
+        "role": "Batsman",
+        "runs": 33,
+        "wickets": 0,
+        "pclSeasons": [
+            "6"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 92,
+        "name": "Manish Gurve",
+        "role": "Batsman",
+        "runs": 0,
+        "wickets": 0,
+        "pclSeasons": [
+            "0"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 93,
+        "name": "Sandeep Yadav",
+        "role": "Batsman",
+        "runs": 15,
+        "wickets": 7,
+        "pclSeasons": [
+            "5"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 94,
+        "name": "Prasad Shembhekar",
+        "role": "Batsman",
+        "runs": 0,
+        "wickets": 0,
+        "pclSeasons": [
+            "0"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 95,
+        "name": "Manoj Meshram",
+        "role": "Batsman",
+        "runs": 0,
+        "wickets": 0,
+        "pclSeasons": [
+            "0"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 96,
+        "name": "Sushen Tiwari",
+        "role": "Batsman",
+        "runs": 6,
+        "wickets": 0,
+        "pclSeasons": [
+            "7"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    },
+    {
+        "id": 97,
+        "name": "Krunal Ghode",
+        "role": "Batsman",
+        "runs": 0,
+        "wickets": 0,
+        "pclSeasons": [
+            "0"
+        ],
+        "basePrice": 500,
+        "photo": "\ud83c\udfcf",
+        "battingStyle": "Right-handed"
+    }
+]
