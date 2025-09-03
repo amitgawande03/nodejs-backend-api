@@ -1,0 +1,49 @@
+{
+    "teams": [
+        {
+            "id": 1,
+            "name": "Mumbai Warriors",
+            "budget": 75000,
+            "players": [],
+            "color": "bg-blue-600"
+        },
+        {
+            "id": 2,
+            "name": "Delhi Capitals",
+            "budget": 75000,
+            "players": [],
+            "color": "bg-red-600"
+        }
+    ],
+    "availablePlayers": [
+        {
+            "id": 101,
+            "name": "Rohit Sharma",
+            "role": "Batsman",
+            "basePrice": 2000,
+            "status": "available"
+        },
+        {
+            "id": 102,
+            "name": "Jasprit Bumrah",
+            "role": "Bowler",
+            "basePrice": 1800,
+            "status": "available"
+        },
+        {
+            "id": 103,
+            "name": "Hardik Pandya",
+            "role": "All-Rounder",
+            "basePrice": 2200,
+            "status": "available"
+        }
+    ],
+    "soldPlayers": [],
+    "auctionState": {
+        "currentPlayerIndex": 0,
+        "auctionActive": false,
+        "currentBid": 0,
+        "currentBidder": null
+    },
+    "timestamp": "2025-09-03T12:00:00.000Z"
+}
